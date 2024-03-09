@@ -1,6 +1,6 @@
 # MERN Stack Project: Contact Record App
 
-![Demo App](https://contacts-record.onrender.com/)
+![Demo App](/client/public/demo.png)
 
 ## Features:
 
@@ -12,6 +12,8 @@
 -   🐞 **Error Handling:** Comprehensive error handling on both server and client sides.
 -   ⭐ **Responsive UI:** Daisy UI ensures an appealing and responsive user interface.
 -   ⏳ **And Much More:** Explore various functionalities and features!
+
+Access the hosted Contact Record App [here](https://contacts-record.onrender.com/).
 
 ## Getting Started:
 
